@@ -15,7 +15,7 @@
 - Rebuilt the original "Attention Is All You Need" architecture from paper to production
 - Achieved 15.34 BLEU on WMT'14 DE→EN translation
 - Implemented: Multi-head attention, sinusoidal embeddings, gradient accumulation, custom LR scheduling
-- [📝 Read the deep dive on Medium](your-medium-link)
+- [📝 Read the deep dive on Medium]([your-medium-link](https://medium.com/@jshim1213/dedication-is-all-we-need-recreating-the-original-transformer-2c29298eae63))
 
 ---
 
