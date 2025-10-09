@@ -10,7 +10,7 @@
 
 ## 🔬 Currently Working On
 
-**[Reconstructing the Transformer from Scratch](https://github.com/yourusername/AttentionIsAllYouNeed)**
+**[Reconstructing the Transformer from Scratch](https://github.com/ShimBoi/AttentionIsAllYouNeed)**
 
 - Rebuilt the original "Attention Is All You Need" architecture from paper to production
 - Achieved 15.34 BLEU on WMT'14 DE→EN translation
