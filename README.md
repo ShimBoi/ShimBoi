@@ -5,7 +5,7 @@
 **ML Researcher · Continual Learning · Post-Training · VLA Models**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayjshim)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3fdglycAAAAJ&hl=en)
 [![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.11653)
 [![Blog](https://img.shields.io/badge/-Blog-2962FF?style=flat&logo=hashnode&logoColor=white)](https://shimboi.hashnode.dev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jshim1213@gmail.com)
